@@ -1,0 +1,137 @@
+* {
+
+    margin: 0;
+    paddin: 0;
+    font-family: 'PT Sans', sans-serif;
+
+
+}
+
+h1 {
+    background-color: #999999;
+    color: white;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    opacity: 0.8
+}
+
+.index {
+    text-align: center;
+    background-color: white;
+    opacity: 0.8;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 10px;
+
+}
+
+body {
+    background-image: url("https://images.pexels.com/photos/696680/pexels-photo-696680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+form {
+    background-color: white;
+    text-align: center;
+    margin: 2%;
+    opacity: 0.9;
+    border-radius: 50%;
+    ;
+}
+
+input {
+    margin: 1%;
+}
+
+img {
+
+    border-radius: 10px;
+    align: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: navy;
+    color: white;
+
+}
+
+a {
+    color: white;
+    background-color: #454545;
+    padding: 4px;
+    font-size: 25px;
+    border-radius: 10px;
+
+
+}
+
+.submit {
+    border: none;
+    border-radius: 12px 0 12px 0;
+    background-color: #454545;
+    border: none;
+    color: #fff;
+    font: bold 12px;
+    padding: 12px 6 12px 6;
+    font-size: 25px;
+}
+
+.submit:hover {
+    border: none;
+    border-radius: 12px 0 12px 0;
+    background: navy;
+    border: none;
+    color: #fff;
+    font: bold 12px;
+    padding: 12px 6 12px 6;
+}
+
+.profil {
+    text-align: center;
+
+}
+
+.tableau {
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 1%;
+    width: center;
+    border-radius: 10px;
+
+}
+
+h2 {
+    text-align: center;
+    margin: 1%;
+}
+
+.modifadmin {
+    text-align: center;
+    padding: 1%;
+    margin: 1%;
+    background-color: white;
+    color: navy
+}
+
+p {
+
+    font-size: 25px;
+    text-align: center;
+}
+
+.admin {
+    background-image: url("https://images.pexels.com/photos/696680/pexels-photo-696680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
